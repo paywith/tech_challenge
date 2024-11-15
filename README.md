@@ -2,8 +2,11 @@
 ## Development
 
 **Build the project**: `make build`
+
 **Start the project**: `make start`
+
 **Run bash on the project**: `make bash`
+
 **Run all the tests**: `make specs`
 
 
